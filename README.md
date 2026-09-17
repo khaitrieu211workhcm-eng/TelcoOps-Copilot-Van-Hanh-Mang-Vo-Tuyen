@@ -60,6 +60,8 @@ Lưu ý:
 
 5.5.	Viết test tự động cho các hàm lõi (generate_sql_query, check_verified_cache, route_query).
 
+<img width="1920" height="831" alt="image" src="https://github.com/user-attachments/assets/388a41cb-7828-4c43-8202-d4b8237bbce7" />
+
 <img width="1920" height="917" alt="image" src="https://github.com/user-attachments/assets/6f879895-c63d-40b2-a031-56f88ef4c323" />
 <img width="778" height="832" alt="image" src="https://github.com/user-attachments/assets/ba80735b-bb7d-41b3-9bd3-13c69bb9ec85" />
 <img width="662" height="724" alt="image" src="https://github.com/user-attachments/assets/b2f8c125-adc2-46b9-998a-2fd0a4a2d2d0" />
