@@ -1,0 +1,25 @@
+# --- Backend API (rag_agent_api.py) ---
+fastapi
+uvicorn
+pydantic
+langchain
+langchain-community
+langchain-openai
+faiss-cpu
+sentence-transformers
+scikit-learn
+joblib
+numpy
+
+# --- Trích xuất tài liệu (extract_docs.py) ---
+pymupdf
+openai
+
+# --- Khởi tạo dữ liệu mẫu (init_database.py) ---
+pandas
+
+# --- Giao diện người dùng (app.py) ---
+streamlit
+requests
+
+# Cần biến môi trường: export OPENAI_API_KEY=sk-...
